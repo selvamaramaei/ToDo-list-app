@@ -29,8 +29,8 @@ Completed tasks will have a strikethrough.
 
 
 ## HOW İT WORKS  
-The app utilizes local storage to store task data, ensuring that your tasks are saved even after a page refresh.
-Task items are displayed as a list, with options to mark them as completed or edit/delete them.
-The app dynamically updates the task list based on the selected filter.
+-The app utilizes local storage to store task data, ensuring that your tasks are saved even after a page refresh.
+-Task items are displayed as a list, with options to mark them as completed or edit/delete them.
+-The app dynamically updates the task list based on the selected filter.
 
 
